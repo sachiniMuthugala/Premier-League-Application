@@ -1,0 +1,56 @@
+.menu-button{
+    -fx-font-size: 25px;
+    -fx-font-weight: bold;
+    -fx-border-width: 2;
+    -fx-border-color: black;
+    -fx-border-style: solid;
+    -fx-background-radius: 30px;
+    -fx-background-color: #888888;
+    -fx-border-radius: 30px;
+    -fx-padding: 5px;
+}
+
+.table-menu-button,.match-menu-button,.help-menu-button{
+    -fx-font-size: 15px;
+    -fx-font-weight: bold;
+    -fx-border-width: 2;
+    -fx-border-color: black;
+    -fx-border-style: solid;
+    -fx-background-radius: 10px;
+    -fx-background-color: #A0A0A0;
+    -fx-border-radius: 10px;
+    -fx-padding: 5px;
+}
+
+.menu-label{
+    -fx-font-size: 25px;
+    -fx-font-weight: bold;
+    -fx-border-width: 2;
+    -fx-border-color: black;
+    -fx-border-style: solid;
+    -fx-background-radius: 10px;
+    -fx-background-color: #4863A0;
+    -fx-border-radius: 10px;
+    -fx-padding: 15px;
+    -fx-font-color: white;
+}
+
+.match-label{
+    -fx-font-size: 20px;
+    -fx-font-weight: bold;
+    -fx-border-width: 2;
+    -fx-background-color: #4863A0;
+    -fx-font-color: white;
+    -fx-padding: 10px;
+}
+
+.pane-delete{
+    -fx-font-size: 15px;
+    -fx-font-weight: bold;
+    -fx-border-width: 4;
+    -fx-border-color: black;
+    -fx-border-style: solid;
+    -fx-background-color: lightgray;
+    -fx-padding: 7px;
+}
+
